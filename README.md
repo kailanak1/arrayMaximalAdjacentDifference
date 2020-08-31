@@ -17,7 +17,7 @@ Pop off the last value, which will be Nan.
 ```
 
 
-Convert the differences array to their absolute values.
+Convert the differences array to their absolute values. Store the results in a new array.
 ```
     let abbys = []
     for(let i = 0; i < diff.length; i++){
